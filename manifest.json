@@ -11,14 +11,11 @@
         "128": "icons/128.png"
     },
     "action": {
-        "default_title": "Tab Switch",
+        "default_title": "TabSwitch",
         "default_icon": "icons/32.png",
         "default_popup": "index.html"
     },
     "permissions": [
-       "activeTab",
-       "alarms",
-       "storage",
        "tabs"
     ],
     "background": {
